@@ -6,6 +6,6 @@
 - Learn how to do animations _the Angular way_ (see Lesson 2)
 
 There are two mini-lessons for this module:
-* [LESSON 1 LINK](angular-ui-practice)
-* [LESSON 2 LINK](angular-animations)
+* [LESSON 1 LINK](../angular-ui-practice)
+* [LESSON 2 LINK](../angular-animations)
 
